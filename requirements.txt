@@ -1,0 +1,8 @@
+Flask==1.0.2
+Flask-SQLAlchemy==2.3.2
+marshmallow==3.0.0rc8
+flask-restplus==0.11.0
+Flask-Migrate==2.5.2
+Flask-Admin==1.5.3
+mysql-connector==2.2.9
+mysqlclient==1.4.2.post1
